@@ -26,7 +26,8 @@ Contributions and feedback from the community are highly welcomed. If you'd like
 ### Demo
 ![image](https://github.com/Phong0217/Automated-Irrigation-System-for-Crop-Plants/assets/106800242/ea896034-c6c4-4bdb-8118-e46feb1e1545)
 
-![image](https://github.com/Phong0217/Automated-Irrigation-System-for-Crop-Plants/assets/106800242/302af376-ee0b-4f97-8769-31da62cda7b7)
+![image](https://github.com/Phong0217/Automated-Irrigation-System-for-Crop-Plants/assets/106800242/58ed19d2-98bf-40a2-8067-a9c60d38b788)
+
 
 
 

@@ -24,6 +24,7 @@ The Automated Irrigation System for Crop Plants is a self-regulating irrigation 
 Contributions and feedback from the community are highly welcomed. If you'd like to contribute to this project, create a Pull Request, and let's collaboratively enhance this automated crop irrigation system.
 
 ### Demo
+link video : https://www.youtube.com/watch?v=-R3Yekor4Qk
 ![image](https://github.com/Phong0217/Automated-Irrigation-System-for-Crop-Plants/assets/106800242/ea896034-c6c4-4bdb-8118-e46feb1e1545)
 
 ![image](https://github.com/Phong0217/Automated-Irrigation-System-for-Crop-Plants/assets/106800242/58ed19d2-98bf-40a2-8067-a9c60d38b788)
